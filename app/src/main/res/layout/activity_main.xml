@@ -242,13 +242,13 @@
                 android:text="."
                 android:textColor="@color/white"
                 android:textSize="25dp" />
+
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/button_send"
                 android:layout_width="10dp"
                 android:layout_height="100dp"
                 android:layout_weight="2"
                 android:background="@color/space_cadet"
-                android:onClick="send"
                 android:text="send"
                 android:textColor="@color/white"
                 android:textSize="25dp" />
